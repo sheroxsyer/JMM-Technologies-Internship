@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+youtube,4924,52753,0,213556,28909.80,0.000%,23.04165,450.66,0.05,20027.9
+TOTAL,4924,52753,0,213556,28909.80,0.000%,23.04165,450.66,0.05,20027.9
